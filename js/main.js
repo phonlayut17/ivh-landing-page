@@ -106,3 +106,7 @@ function ScrollMenu(menu) {
         behavior: 'smooth'
     });
 }
+
+function OpenMain() {
+    window.location.href = 'https://inveshub.co/';
+}
